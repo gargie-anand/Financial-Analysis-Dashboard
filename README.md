@@ -11,7 +11,7 @@
 - [Insights](https://github.com/gargie-anand/Financial-Analysis-Dashboard/edit/main/README.md#insights)
 
 ## Problem Statement
--To create a Power BI dashboard to clearly show sales, profit, discounts, and performance across countries and products.
+To create a Power BI dashboard to clearly show sales, profit, discounts, and performance across countries and products.
 
 ## Tools Used
 Microsoft Power BI
