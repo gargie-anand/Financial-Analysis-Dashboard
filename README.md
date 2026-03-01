@@ -57,6 +57,8 @@ Dataset contains `1` table; `16 columns` and `5701 rows`.
 
 ## Dashboard
 
+https://github.com/gargie-anand/Financial-Analysis-Dashboard/blob/12893af6f35de053fbb7d218f2e177c3c215b82c/image.png
+
 ### Overall Business Performance
 - FestMan Stores shows strong year-over-year growth across all key financial indicators.
 - Total Sales: 12.66M (↑ 200.7% YoY)
