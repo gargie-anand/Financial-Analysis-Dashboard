@@ -17,7 +17,7 @@ To create a Power BI dashboard to clearly show sales, profit, discounts, and per
 Microsoft Power BI
 
 ## Data Source
-Financial-Analysis Dataset: 
+Financial-Analysis Dataset: https://drive.google.com/drive/folders/1cFliR6bJ13Cq7hC5bZOeMQ0MTtR_xq6W?usp=sharing
 
 ## Data Preparation
 After importing the csv file `Financial_Data_Sample`, cleaned the data in the power query.
@@ -57,7 +57,7 @@ Dataset contains `1` table; `16 columns` and `5701 rows`.
 
 ## Dashboard
 
-![1](https://github.com/gargie-anand/Financial-Analysis-Dashboard/blob/12893af6f35de053fbb7d218f2e177c3c215b82c)
+![image](https://github.com/gargie-anand/Financial-Analysis-Dashboard/blob/12893af6f35de053fbb7d218f2e177c3c215b82c)
 
 ### Overall Business Performance
 - FestMan Stores shows strong year-over-year growth across all key financial indicators.
